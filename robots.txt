@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Scope1-guy.github.io/snippets-3jb0td/sitemap.xml
